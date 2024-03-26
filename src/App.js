@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App this is local</div>
+    <div>i want to be a main</div>
   )
 }
 
